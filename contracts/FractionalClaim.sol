@@ -1,10 +1,4 @@
 // SPDX-License-Identifier: MIT
-/**
- * @file fractionalClaim.sol
- * @author Jackson Ng <jackson@jacksonng.org>
- * @date created 20th Mar 2022
- * @date last modified 20th Mar 2022
- */
 
 pragma solidity ^0.8.2;
 
